@@ -1,7 +1,7 @@
 from sys import argv
-from user_setting import user_setting
 
-from alidayu import AlibabaAliqinFcSmsNumSendRequest
+from opt.alidayu import AlibabaAliqinFcSmsNumSendRequest
+from user_setting import user_setting
 
 
 class sms:

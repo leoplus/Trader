@@ -1,4 +1,4 @@
-from chbtc_api_python import Chbtc_Api
+from opt.chbtc_api_python import Chbtc_Api
 from publicdef import Currency, OrderInfo, Ordertype
 from user_setting import user_setting
 
